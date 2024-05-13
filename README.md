@@ -1,0 +1,3 @@
+# Bus-Reservation-System
+!ur project is to computeri"e traveling company to manage data, so that all thetransactions become fast and there should not be any error in transaction likecalculation mistake, bill generation and other things. It replaces all the paperwork. It keeps records of all bills also, giving to ensure #$$% successfulimplementation of the computeri"ed Bus reservation system.!ur reservation system has three modules. &irst module helps the customer toen'uire the availability of seats in a particular bus at particular date. (econdmodule helps him to reserve a ticket. )sing third module he can cancel areserved ticket.
+Page 2
